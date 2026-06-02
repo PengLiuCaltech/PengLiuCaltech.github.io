@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Physics PhD Student at Caltech · Photographer
+subtitle: Photographer · Physics PhD Student at Caltech
 
 profile:
   align: right
