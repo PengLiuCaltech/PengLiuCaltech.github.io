@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>T. J. Watson Laboratories # 236</p>
+    <p>T. J. Watson Lab # 236</p>
     <p>1200 E. California Blvd.</p>
     <p>Pasadena, CA 91125</p>
 
