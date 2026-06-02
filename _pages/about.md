@@ -30,8 +30,3 @@ latest_posts:
 I am a photographer at heart. I love traveling, cinema, and writing about the things they leave behind.
 
 In my other life, I am a PhD student at Caltech working on integrated nonlinear photonics. You can find my research on [Google Scholar](https://scholar.google.com/citations?user=AQHvswkAAAAJ/).
-
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
